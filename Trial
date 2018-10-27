@@ -1,0 +1,14 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+
+namespace ThisTrial
+{
+  class myProgram
+  {
+    static void Main(string[] args)
+    {
+    Console.WriteLine("This is a trial!!!");
+    }
+  }
+}
