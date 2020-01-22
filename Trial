@@ -11,4 +11,12 @@ namespace ThisTrial
     Console.WriteLine("This is a trial!!!");
     }
   }
+  
+  class Learn
+  {
+    public string [] ShuffleCards()
+    {
+    
+    }
+  }
 }
